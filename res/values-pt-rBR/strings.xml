@@ -4965,4 +4965,15 @@
     <string name="keywords_media_controls" msgid="8345490568291778638">"mídia"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"O Bluetooth será ativado"</string>
     <string name="aware_summary_when_bedtime_on" msgid="2063856008597376344">"Indisponível durante o Modo noite"</string>
+
+    <!-- Colored Statusbar Icons -->
+    <string name="statusbar_icons_style">Ícones coloridos da barra de status</string>
+    <string name="statusbar_icons_style_summary">Escolha o estilo dos ícones da barra de status (requer reinicialização do SystemUI)</string>
+
+    <!-- Refresh rate -->
+    <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
+    <string name="max_refresh_rate_title">Taxa máxima de atualização</string>
+    <string name="battery_saver_refresh_rate_title">Reduza a taxa de atualização</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz como taxa de atualização máxima para economizar energia quando a Economia de bateria estiver ativada</string>
+
 </resources>
